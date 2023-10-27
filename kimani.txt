@@ -1,0 +1,29 @@
+<h2>Hello & Welcome to my Terminal. I am <span id="k">David Mwangi</span>. <!-- sjkfhskjf --></h2>
+<span id="a">_david@cypher.pantheras.co.ke</span>:<span id="b">~</span><span id="c">$</span> cd ~/profile && ls
+<span id="a">_david@cypher.pantheras.co.ke</span>:<span id="b">~</span><span id="c">$</span> about_me.txt     work.txt     contact.txt
+<span id="a">_david@cypher.pantheras.co.ke</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>
+I design and build software specializing in Web Applications and API design & implementation.</p>
+
+I have been doing this for the last 1 year and i intend to do it for the rest of my life<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p> Some of the languages/Frameworks that i am proficient in are Odoo[python Erp software framework], PHP[Symfony], python Django. I embrace the concept of perpetual learning, recognizing that wisdom comes from understanding one's boundaries of knowledge. In the realm of frontend development, my preferences lean towards Vue.js, the JavaScript library, alongside JQuery and Vanilla JavaScript for simple applications."</p>
+<p>I develop Windows service applications, windows console applications as well as thirdparty intergrations  </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<p>I develop and design Web Management Systems using python Odoo ERP. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>I`m also proficient in other complementary technologies such as Database administration, Git, Linux server administration, docker, webpack, Gradle, ant, jUnit, Appium, Jest & phpunit. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p>Indulging in the triumvirate of chess, coffee, and football punditry, I've surrendered to these passions, for there's a certain magic in embracing the uncontrollable allure of life's diversions of which i don't bother to fight simply because there is nothing i can do about it. </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<span id="a">_david@cypher.pantheras.co.ke</span>:<span id="b">~</span><span id="c">$</span> cat work.txt
+<p> The following are some of my works or projects  i have been involved in <!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+<a  target="_blank" href="http://track3.controltech-ea.com/">Recipe Sharing Web App</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<a  target="_blank"  href="https://www.opencart.com/"> Odoo AfricasTalking</a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+
+
+<span id="a">_david@cypher.pantheras.co.ke</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
+<p> My contact email address is  <a href="mailto:Kimanid488@gmail.com"> Kimanid488@gmail.com</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Call me via  <a href="tel:0748272022">+254748272022</a></p> <!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> My github profile is <a href="https://github.com/cipher1017">github.com/cipher1017</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> Lets connect on linkedin <a href="www.linkedin.com/in/david-kimani-32b015253/">linkedin.com/in/david-kimani-32b015253</a></p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+
+<p>Bravo!</p>
+
+<span id="a">_david@cypher.pantheras.co.ke</span>:<span id="b">~</span><span id="c">$</span>
